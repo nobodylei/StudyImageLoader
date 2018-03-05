@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudyImageLoader.iml" filepath="$PROJECT_DIR$/StudyImageLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studyfresco/studyfresco.iml" filepath="$PROJECT_DIR$/studyfresco/studyfresco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studypicasso/studypicasso.iml" filepath="$PROJECT_DIR$/studypicasso/studypicasso.iml" />
+    </modules>
+  </component>
+</project>
